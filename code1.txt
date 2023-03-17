@@ -1,3 +1,4 @@
 code1
 test push
 test pull
+chagement mini_map
